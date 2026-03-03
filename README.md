@@ -1,2 +1,3 @@
-# Machine-Learning-Based-Study-of-Weather-Triggered-Traffic-Queue-Emergence-at-Urban-Intersections
-🎯 Project Objective  The main goal of your project is to:  👉 Predict traffic queue formation at urban roads using weather conditions and traffic data.  In simple words:  You use weather + traffic information  Train machine learning models  Predict whether traffic congestion (queue) will occur or not.
+#Machine Learning–Based Study of Weather-Triggered Traffic Queue Emergence at Urban Intersections
+         “Limited analysis of how weather conditions influence changes in traffic flow patterns, as most studies focus only on traffic prediction rather than pattern variation analysis.”
+
